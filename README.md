@@ -1,46 +1,28 @@
-# InAmigos Foundation Website
+# InAmigos  Foundation Website
 
-A modern and responsive NGO website developed using HTML, CSS, and JavaScript.
+This is a complete AI-generated static website concept for an education NGO. It was created for the "AI Website Generation" task and includes a homepage, about section, services, impact model, community stories, and contact form.
 
-## Features
+## Files
 
-- Responsive Design
-- Mobile Navigation Menu
-- Hero Section with Image Slider
-- Animated Statistics Counter
-- NGO Programs Section
-- Community Stories Section
-- Contact Form
-- Modern UI/UX Design
-- Smooth Scrolling Navigation
+- `index.html` - main website
+- `styles.css` - responsive visual design
+- `script.js` - mobile navigation and demo contact form behavior
+- `assets/hero-learning.png` - AI-generated website hero image
+- `screenshots/` - place for website screenshots
+- `submission/linkedin-post.txt` - social media caption draft
 
-## Technologies Used
+## How to Open
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+Open `index.html` in any browser. No installation is required.
 
-## Project Structure
+## AI Tools Used
 
-├── index.html
-├── styles.css
-├── script.js
-├── assets/
-│   └── logo.png
-└── README.md
+- Codex for website structure, HTML, CSS, JavaScript, and submission organization
+- AI image generation for the hero visual
 
-## Sections Included
+## Submission Checklist
 
-1. Home
-2. About Us
-3. Services
-4. Impact
-5. Community Stories
-6. Contact
-
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/inamigos-foundation.git
+- Website files saved in the Drive/work folder
+- Website screenshot saved in `screenshots/`
+- Social media caption draft saved in `submission/linkedin-post.txt`
+- After posting on LinkedIn or another platform, save the post screenshot in `screenshots/`
